@@ -1,0 +1,1 @@
+console.log('¡Bienvenida a Aqua Show!');
